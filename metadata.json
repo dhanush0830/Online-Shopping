@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Nexus Marketplace",
+  "description": "A comprehensive multi-vendor marketplace featuring buyer and seller dashboards, product management, and an AI-powered shopping assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
